@@ -1,0 +1,4 @@
+@import '../../bower_components/bootstrap/dist/css/bootstrap.css';
+<% if (includeFontAwesome) { %>
+@import '../../bower_components/fontawesome/css/font-awesome.css';
+<% } %>      

@@ -1,7 +1,8 @@
 generator-backbone-marionette
 =============================
 
-Yeoman generator for building modular, modern web-apps using Backbone.js, Require.js, Marionette.js, Almond.js and your choice of lodash, mustache or handlebars for templating.
+Yeoman generator for building modular, modern web-apps using Backbone.js, Require.js, Marionette.js, Almond.js.
+Includes your choice of lodash, mustache or handlebars for templating. Bootstrap for css, sass or less and font awesome(if you want it).
 
 ## Usage
 

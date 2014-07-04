@@ -23,3 +23,14 @@ Once you've got the generator, run one of the following grunt commands. The main
 
 `grunt release`
 
+## Contributing
+
+See the yeoman contributing [docs](https://github.com/yeoman/yeoman/blob/master/contributing.md)
+
+Before submitting an issue, make sure your Yeoman is up-to-date and please provide the steps/commands used to generate the error.
+
+Please submit a test case along side the fix.
+
+## License
+
+[BSD License](http://opensource.org/licenses/bsd-license.php)

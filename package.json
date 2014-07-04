@@ -1,7 +1,7 @@
 {
   "name": "generator-backbone-marionette",
-  "version": "0.0.0",
-  "description": "Yeoman generator",
+  "version": "0.1.0",
+  "description": "Yeoman generator for building modular, modern web-apps using Backbone.js, Require.js, Marionette.js, Almond.js. Includes your choice of lodash, mustache or handlebars for templating. Bootstrap for css, sass or less and font awesome(if you want it).",
   "license": "MIT",
   "main": "app/index.js",
   "repository": "danstanhope/generator-backbone-marionette",

@@ -8,7 +8,7 @@ Includes your choice of lodash, mustache or handlebars for templating. Bootstrap
 
 Install: `npm install -g generator-backbone-marionette`
 
-Create and new directory and jump in there.
+Create a new directory and jump in there.
 
 `mkdir my-app-name && cd $_`
 
